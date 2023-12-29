@@ -1,0 +1,17 @@
+{
+    "name": "blockchainethdev/bigint-wrapper-php",
+    "description": "Common interface for php_gmp and php_bcmath modules",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "blockchainethdev Team",
+            "email": "s.smyczynski@blockchainethdev.com",
+            "homepage": "https://blockchainethdev.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "BI\\": "lib/"
+        }
+    }
+}
